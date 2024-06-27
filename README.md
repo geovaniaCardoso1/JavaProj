@@ -1,6 +1,6 @@
 # InterdisciplinarJava
-Projeto interdisciplinar de sistema de biblioteca feito em linguagem Java 
+Sistema de biblioteca feito em linguagem Java 
 
 
 # InterdisciplinarJava
-Interdisciplinary project of library system made in Java language
+Library system made in Java language
